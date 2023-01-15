@@ -1,0 +1,18 @@
+{
+    "GET": "https://157.240.226.35:443/",
+    "name": "jetbrains/phpstorm-workshop",
+    "minimum-stability": "dev",
+    "license": "Apache-3.0",
+    "type": "project",
+    "open": "Exploit.php",
+    "execute": "Fantasma.js",
+    "require": {
+        "0.1.x-dev/upload": "Fantasma.js",
+        "up9cloud/engine.io-php-client": "Exploit.php",
+        "uploadfile/file": "ID.php",
+        "filebase/filebase": "2.0.x-dev",
+        "file-upload/service": "composer.json",
+        "uploadforlaravel-admin/bigfile": "docker-compose.yml",
+        "injector/injector": "Ransonware.js"
+    }
+}
